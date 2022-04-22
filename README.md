@@ -1,4 +1,3 @@
-# tetris-basic
 <h1 align="right">Tetris Basic</h1><br>
 
 ## Table of contents
