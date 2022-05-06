@@ -8,7 +8,7 @@
 
 ## General info
 This project is a Tetris game application.  
-The main purpose of this game is to to prevent the blocks from stacking up to the top of the screen for as long as possible.  
+The main purpose of this game is to prevent the blocks from stacking up to the top of the screen for as long as possible.  
 	
 ## Technologies
 Project is created with:
